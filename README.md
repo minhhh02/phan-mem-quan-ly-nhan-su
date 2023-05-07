@@ -2,7 +2,7 @@ Hướng dẫn sử dụng
 1. Đăng nhập
 2. Vào menu hệ thống chọn mục mình cần
 3. Chức năng quản lý tài khoản
-Bảng sẽ có các chức năng Thêm, sửa, xóa, làm mới tài khoản viên tương ứng với
+Bảng sẽ có các chức năng Thêm, sửa, xóa, làm mới tài khoản tương ứng với
 các chức năng của nó. Chọn chức năng phù hợp với mong muốn.
 4. Bảng thông tin nhân viên
 Bảng sẽ có các chức năng Thêm, sửa, xóa, làm mới thông tin nhân viên tương
