@@ -1,6 +1,6 @@
 Tải 2 file CSDL-QLNS_Final.rar và Quan Ly Nhan Su Final.rar
 File CSDL-QLNS_Final.rar chứa CSDL của dự án và file Quan Ly Nhan Su Final.rar chứa toàn bộ code của phần mềm dự án
-Tải file CSDL-QLNS_Final.rar sau đó vào Microsoft SQL Server, attack CSDL để sử dụng
+Tải file CSDL-QLNS_Final.rar sau đó vào Microsoft SQL Server, attach CSDL để sử dụng
 Tải file Quan Ly Nhan Su Final.rar, sau đó mở trong Visual Studio để run code.
 
 Hướng dẫn sử dụng
